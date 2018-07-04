@@ -1,31 +1,34 @@
-##Sort
+#Sort
+
+
 **O(n^2)**
 
-*Selection
+
+>*Selection
 
 
-*Bubble
+>*Bubble
 
 
-*insertion
+>*insertion
 
 
 **O(nlogn)**
 
 
-*merge
+>*merge
 
 
-*quick
+>*quick
 
 
-*heap
+>*heap
 
 
 **O(n)**
 
 
-*Count
+>*Count
 
 
-*Radix
+>*Radix
