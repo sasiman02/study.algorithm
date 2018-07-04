@@ -1,4 +1,5 @@
-#O(n^2)
+##Sort
+**O(n^2)**
 
 *Selection
 
@@ -9,7 +10,7 @@
 *insertion
 
 
-#O(nlogn)
+**O(nlogn)**
 
 
 *merge
@@ -21,7 +22,7 @@
 *heap
 
 
-#O(n)
+**O(n)**
 
 
 *Count
