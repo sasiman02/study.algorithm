@@ -1,11 +1,11 @@
 #O(n^2)
->code¼±ÅÃ(Selection)
->code¹öºí(Bubble)
->code»ðÀÔ(insertion)
+ *¼±ÅÃ(Selection)
+ *¹öºí(Bubble)
+ *»ðÀÔ(insertion)
 #O(nlogn)
->codeº´ÇÕ(merge)
->codeÄü(quick)
->codeÈü(heap)
+ *º´ÇÕ(merge)
+ *Äü(quick)
+ *Èü(heap)
 #O(n)
->codeCount
->codeRadix
+ *Count
+ *Radix
