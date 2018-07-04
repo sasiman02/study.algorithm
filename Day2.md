@@ -1,31 +1,31 @@
-#O(n^2)
+##O(n^2)
 
 
-## *¼±ÅÃ(Selection)
+# *¼±ÅÃ(Selection)
 
 
-## *¹öºí(Bubble)
+# *¹öºí(Bubble)
 
 
-## *»ğÀÔ(insertion)
+# *»ğÀÔ(insertion)
 
 
-#O(nlogn)
+##O(nlogn)
 
 
-## *º´ÇÕ(merge)
+# *º´ÇÕ(merge)
 
 
-## *Äü(quick)
+# *Äü(quick)
 
 
-## *Èü(heap)
+# *Èü(heap)
 
 
-#O(n)
+##O(n)
 
 
-## *Count
+# *Count
 
 
-## *Radix
+# *Radix
