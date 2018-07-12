@@ -1,32 +1,23 @@
-#Sort
-**O(n^2)**
+#	Sort 
+##	O(n^2)
 
+>	-	Selection
 
->-Selection
+>	-	Bubble
 
+>	-	insertion
 
->-Bubble
+##	O(nlogn)
 
+>	-	merge
 
->-insertion
+>	-	quick
 
+>	-	heap
 
-**O(nlogn)**
+##	O(n)
 
+>	-	Count
 
->-merge
+>	-	Radix
 
-
->-quick
-
-
->-heap
-
-
-**O(n)**
-
-
->-Count
-
-
->-Radix
